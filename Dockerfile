@@ -49,4 +49,4 @@ CMD ["/start.sh"]
 VOLUME /config
 VOLUME /data
 
-EXPOSE 1030/udp 1900/udp 9000/tcp
+EXPOSE 1030/udp 1900/udp 9050/tcp
